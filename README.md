@@ -41,7 +41,7 @@ Analyzed survey/interview data from Calculus students to study confidence and eq
 - Involved both quantitative and qualitative data exploration  
 ---
 
-## 🌱 Involvements & Interests
+##  Involvements & Interests
 
 - **Machine Learning Fellow @ Break Through Tech**: Preparing to join an industry-sponsored AI/ML studio in Fall  
 -  **Mathematics TA & Tutor**: Support Calculus II students and work with faculty to improve instruction  
@@ -54,11 +54,11 @@ Outside of tech, I enjoy writing, mentoring, and community-building—especially
 
 ---
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/meronoumer/)  
-- 📨 Email: moumer@smith.edu 
-- 🐙 GitHub: [@meronoumer](https://github.com/meronoumer)
+-  [LinkedIn](https://www.linkedin.com/in/meronoumer/)  
+-  Email: moumer@smith.edu 
+-  GitHub: [@meronoumer](https://github.com/meronoumer)
 
 ---
 
