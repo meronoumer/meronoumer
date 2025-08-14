@@ -23,7 +23,8 @@ Pandas, NumPy, Scikit-learn, Matplotlib, Numba, Multiprocessing, Librosa, OpenSM
 Built supervised machine learning models to classify types of cardiovascular disease using phonocardiogram data.  
 - Used Librosa, OpenSMILE, Scikit-learn, and TensorFlow  
 - Focused on real-world clinical signal processing and feature engineering  
-- Part of the AI4ALL x UCSF ML Accelerator (Fall 2025)  
+- Part of the AI4ALL x UCSF ML Accelerator (Fall 2025)
+- https://cardiovascular-disease-diagnostic-tool.streamlit.app/
 
 ### 🎲 EvenQuads Probability Engine  
 Simulated and analyzed quad probabilities in binary vector spaces using Monte Carlo methods and parallelized brute-force search.  
