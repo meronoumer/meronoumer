@@ -39,7 +39,7 @@ ML models (HMMs, Random Forests, Gradient Boosting, Logistic Regression) + web-b
 - **[EvenQuads Probability Simulation](https://github.com/meronoumer/quad_simulator)**  
 Monte Carlo + parallelized brute-force search to estimate the probability of quads in k-card layouts in F₂ⁿ for n ≥ 6.  
 
-- **[HPC: Distributed Bayesian Optimization](https://github.com/meronoumer/hpc-bayes-opt)**  
+- **[HPC: Distributed Bayesian Optimization](https://github.com/mpr-lab/hpc-bayes-opt)**  
 Scalable pipelines for distributed Bayesian Optimization on HPC clusters, with bottleneck detection and parallelization strategies.  
 
 - **[Survey Sentiment Analysis in Math Education](https://github.com/meronoumer/math-equity-analysis)**  
