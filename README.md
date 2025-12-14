@@ -42,8 +42,8 @@ Monte Carlo + parallelized brute-force search to estimate the probability of qua
 - **[HPC: Distributed Bayesian Optimization](https://github.com/mpr-lab/hpc-bayes-opt)**  
 Scalable pipelines for distributed Bayesian Optimization on HPC clusters, with bottleneck detection and parallelization strategies.  
 
-- **[Survey Sentiment Analysis in Math Education](https://github.com/meronoumer/math-equity-analysis)**  
-Analyzing Smith College Calculus experiences using sentiment analysis, R + Python visualization, and statistical modeling to study math identity and equity.  
+- **[Chambers Capital Ventures : BottleNeck Detection ](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)**  
+A full end-to-end analytics + ML workflow designed to detect operational bottlenecks in SMBs, validate model outputs against business rules, and deploy insights through a Streamlit dashboard. 
 
 ---
 
