@@ -33,17 +33,19 @@ Building and exploring at the intersection of AI, data, and high-performance com
 
 ## 📌 Pinned Projects  
 
+- **[Chambers Capital Ventures : BottleNeck Detection ](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)**  
+A full end-to-end analytics + ML workflow designed to detect operational bottlenecks in SMBs, validate model outputs against business rules, and deploy insights through a Streamlit dashboard.
+
+- **[HPC: Distributed Bayesian Optimization](https://github.com/mpr-lab/hpc-bayes-opt)**  
+Scalable pipelines for distributed Bayesian Optimization on HPC clusters, with bottleneck detection and parallelization strategies.  
+
 - **[Heart Disease Classification from PCG Data](https://github.com/meronoumer/heart-disease-model)**  
 ML models (HMMs, Random Forests, Gradient Boosting, Logistic Regression) + web-based diagnostic tool for classifying cardiovascular disease types from phonocardiogram signals.  
 
 - **[EvenQuads Probability Simulation](https://github.com/meronoumer/quad_simulator)**  
 Monte Carlo + parallelized brute-force search to estimate the probability of quads in k-card layouts in F₂ⁿ for n ≥ 6.  
 
-- **[HPC: Distributed Bayesian Optimization](https://github.com/mpr-lab/hpc-bayes-opt)**  
-Scalable pipelines for distributed Bayesian Optimization on HPC clusters, with bottleneck detection and parallelization strategies.  
 
-- **[Chambers Capital Ventures : BottleNeck Detection ](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)**  
-A full end-to-end analytics + ML workflow designed to detect operational bottlenecks in SMBs, validate model outputs against business rules, and deploy insights through a Streamlit dashboard. 
 
 ---
 
