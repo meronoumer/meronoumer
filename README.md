@@ -66,4 +66,4 @@ Monte Carlo + parallelized brute-force search to estimate the probability of qua
 ---
 
 ✨ Always learning, always building ✨  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/meronoumer/) | [GitHub](https://github.com/meronoumer)  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/meronoumer/) 
