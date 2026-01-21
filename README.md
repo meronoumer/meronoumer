@@ -1,6 +1,6 @@
 # Hi, I'm Meron 👋
 
-CS & Applied Math @ Smith College | Machine Learning Fellow | HPC Researcher | Aspiring SWE ✨  
+CS & Applied Math @ Smith College | Machine Learning Fellow | HPC Researcher | Aspiring **SOFTWARE/AI/Data Engineer** 
 Building and exploring at the intersection of AI, data, and high-performance computing.  
 
 ---
