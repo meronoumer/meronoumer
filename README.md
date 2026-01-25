@@ -1,7 +1,7 @@
-# Hi, I'm Meron 👋
+# Hi, I'm Meron 
 
-CS & Applied Math @ Smith College | Machine Learning Fellow | HPC Researcher | Aspiring **SOFTWARE/AI/Data Engineer** 
-Building and exploring at the intersection of AI, data, and high-performance computing.  
+CS & Applied Math @ Smith College | Machine Learning Fellow | HPC Researcher | Aspiring **Software / AI / Data Engineer**  
+Exploring the intersection of AI, high-performance computing, and data-driven impact, building solutions that inform decision-making and empower users.  
 
 ---
 
@@ -22,39 +22,47 @@ Building and exploring at the intersection of AI, data, and high-performance com
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
 
-**Developer Tools**  
+**Developer Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B3E?style=flat&logo=streamlit&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)  
 
 ---
 
-## 📌 Pinned Projects  
+## 📌 Selected Projects  
 
-- **[Chambers Capital Ventures : BottleNeck Detection ](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)**  
-A full end-to-end analytics + ML workflow designed to detect operational bottlenecks in SMBs, validate model outputs against business rules, and deploy insights through a Streamlit dashboard.
+- **[Chambers Capital Ventures: Bottleneck Detection](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)**  
+End-to-end ML workflow analyzing operational data from 5,000+ events; improved bottleneck detection accuracy to 88% (F1=0.835) and deployed a real-time Streamlit dashboard for business insights.  
 
 - **[HPC: Distributed Bayesian Optimization](https://github.com/mpr-lab/hpc-bayes-opt)**  
-Scalable pipelines for distributed Bayesian Optimization on HPC clusters, with bottleneck detection and parallelization strategies.  
+Parallelized and reproducible pipelines for Bayesian optimization, profiling latency and convergence across HPC clusters to improve tuning throughput by 25%.  
 
 - **[Heart Disease Classification from PCG Data](https://github.com/meronoumer/heart-disease-model)**  
-ML models (HMMs, Random Forests, Gradient Boosting, Logistic Regression) + web-based diagnostic tool for classifying cardiovascular disease types from phonocardiogram signals.  
+Developed ensemble ML models (HMMs, Random Forest, Gradient Boosting, Logistic Regression) and a web-based tool for cardiovascular disease diagnosis using phonocardiogram signals.  
 
 - **[EvenQuads Probability Simulation](https://github.com/meronoumer/quad_simulator)**  
-Monte Carlo + parallelized brute-force search to estimate the probability of quads in k-card layouts in F₂ⁿ for n ≥ 6.  
+Monte Carlo and parallelized brute-force analysis to calculate quad probabilities in k-card layouts over F₂ⁿ (n ≥ 6), combining combinatorics and algorithmic optimization.  
 
+- **[Real-Time Assistive Vision App](https://github.com/meronoumer/assistive-vision)**  
+MobileNetV2-based app achieving 90% accuracy and <200ms inference latency; on-device text-to-speech integration for visually impaired users.  
 
+- **[Climate Equity Impact Dashboard](https://github.com/meronoumer/climate-equity-dashboard)**  
+Interactive dashboards highlighting disproportionate climate impacts; visualizations designed for policymakers and advocates using Tableau, Power BI, and Looker Studio.  
 
 ---
 
-## 🌱 Highlights  
+## 🌱 Highlights & Research  
 
-- **Break Through Tech AI Fellow** (ML project on real-world problems with industry partners)  
-- **Researcher @ Smith HPC Lab** (distributed Bayesian optimization, parallel pipelines)  
-- **Undergraduate Researcher** (stress & exercise classification from wearable data, phonocardiogram analysis)  
-- **TA for Calculus II** (helping students strengthen math intuition)  
+- **Break Through Tech AI Fellow** – Designing agentic AI solutions for real-world industry problems.  
+- **Smith HPC Lab Researcher** – Distributed Bayesian optimization and high-performance computing pipelines.  
+- **Machine Learning Researcher** – Audio, wearable, and survey-based predictive modeling with emphasis on equity and interpretability.  
+- **Survey & Impact Evaluation** – Designed and analyzed cohort-based studies for education, entrepreneurship, and community programs, including dashboards and documentation for decision-making.  
+- **TA for Calculus II** – Mentoring students and reinforcing conceptual understanding in mathematics.  
 
 ---
 
@@ -64,6 +72,5 @@ Monte Carlo + parallelized brute-force search to estimate the probability of qua
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meronoumer&layout=compact&theme=radical)  
 
 ---
-
-✨ Always learning, always building ✨  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/meronoumer/) 
+always learning !!!
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/meronoumer/)  
