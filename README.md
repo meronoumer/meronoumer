@@ -50,7 +50,7 @@ Monte Carlo & parallelized brute-force approach to compute probabilities of quad
 
 ## 🌱 Highlights & Experience  
 
-- **Break Through Tech AI Fellow/AI Engineering ** – ML projects solving real-world industry problems,building dashboards 
+- **Break Through Tech AI Fellow/AI Engineering** – ML projects solving real-world industry problems,building dashboards 
 - **HPC Researcher @ Smith College** – Distributed Bayesian optimization, parallel pipelines, and HPC scaling.  
 - **Undergraduate Researcher** – Wearable data analysis, stress & exercise classification, PCG signal processing.  
 - **Teaching Assistant | Calculus II** – Helping students strengthen mathematical intuition and problem-solving skills.  
