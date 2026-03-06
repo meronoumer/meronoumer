@@ -59,8 +59,6 @@ Monte Carlo & parallelized brute-force approach to compute probabilities of quad
 
 ## 📊 GitHub Stats  
 
-![Meron's GitHub stats](https://github-readme-stats.vercel.app/api?username=meronoumer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meronoumer&layout=compact&theme=radical)  
 
 ---
 
