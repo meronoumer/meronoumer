@@ -54,14 +54,6 @@ I’m looking for **Software Engineering, AI Engineering, Data Engineering, ML E
 
 ## 🚀 Featured Projects
 
-### [AI Access Lab](https://github.com/meronoumer/ai-access-lab-databricks)
-**Databricks, PySpark, Python, Data Pipelines, ML, Education Technology**
-
-A campus-facing Databricks project designed to make AI and machine learning more accessible to students with limited exposure to the field. The project walks through the full data-to-AI workflow: messy data ingestion, cleaning, transformation, exploratory analysis, simple modeling, evaluation, and explanation.
-
-Built as both a technical project and a teaching tool for beginner-friendly AI/ML workshops at Smith.
-
-**Focus:** democratizing AI education, responsible data workflows, Databricks, reproducible notebooks, student-centered technical learning.
 
 ---
 
