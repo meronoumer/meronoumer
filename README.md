@@ -75,7 +75,7 @@ Research project evaluating optimization frameworks for machine learning workflo
 
 ---
 
-### [Operations Insight Dashboard | Chambers Capital Ventures](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main)
+### [Operations Insight Dashboard | Chambers Capital Ventures](https://github.com/Chambers-Capital-Ventures-Inc/operations-insight/tree/main/breakthrough/operations-insight)
 **Python, Streamlit, Feature Engineering, Monitoring, Data Validation**
 
 An analytics and monitoring workflow for identifying operational bottlenecks across thousands of workflow events. Transformed noisy operational data into structured indicators and built real-time dashboarding tools to improve visibility into system behavior and data health.
